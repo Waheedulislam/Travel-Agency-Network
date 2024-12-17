@@ -10,7 +10,7 @@ Welcome to the project! Follow these simple steps to get started and have your a
    Begin by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/mominulhouqe/travel-agency
+   git clone https://github.com/Waheedulislam/Travel-Agency-Network
    ```
 
 2. **Navigate to the Project Directory**
