@@ -1,8 +1,5 @@
-# Getting Started
+# Travel Agency Network
 
-Welcome to the project! Follow these simple steps to get started and have your application running in no time.
-
----
 ## [Live-Site](https://travel-agency-network.vercel.app/)
 
 Click  here to Live-Site-link: https://travel-agency-network.vercel.app/
